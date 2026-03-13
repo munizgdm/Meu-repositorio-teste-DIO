@@ -8,7 +8,7 @@
 
 3. Fazer alterações >> Adicionar | commitar | enviar arquivos [ ok ]
 
-4. Criar uma nova Branch [ ok ]
+4. Criar uma nova Branch [ Não ]
 
 5. Realizar um Pull Request e Merge [ ]
 
